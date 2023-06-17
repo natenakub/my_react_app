@@ -36,3 +36,34 @@
     transform: rotate(360deg);
   }
 }
+
+.MyHeader {
+  background-color: bisque;
+  font-family: kanit, sans-serif;
+  /* font-size: larger;
+  padding: 2em;
+  border-radius: 15px;
+  border: 2px solid #282c34;
+  margin-bottom: 1em; */
+  text-align: center;
+}
+
+.MyFooter {
+  background-color: bisque;
+  font-family: kanit, sans-serif;
+  /* font-size: larger;
+  padding: 2em;
+  border-radius: 15px;
+  border: 2px solid #282c34;
+  margin-bottom: 1em; */
+  text-align: center;
+}
+
+.t_name {
+  text-align: center;
+  font-size: larger;
+  padding: 2em;
+  border-radius: 15px;
+  border: 2px solid #282c34;
+  margin-bottom: 1em;
+}
