@@ -22,7 +22,7 @@ function App() {
     const checkPrime = isPrime(num);
     setIsPrimeNumber(checkPrime);
   }, [num]);
-
+  
   function updateTime() {
     const newTime = new Date().toLocaleTimeString('th-TH');
     setTime(newTime);
